@@ -63,7 +63,7 @@ const Contact = () => {
           <div className="flex justify-between items-center">
             <div className="w-full space-y-2">
               <h1 className="text-xl font-bold">Phone</h1>
-              <p>+8801913101179</p>
+              <p>+8801540115359</p>
             </div>
             <div className="w-full space-y-2">
               <h1 className="text-xl font-bold">Social Handle</h1>
