@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "blogTitle": "Introduction to JavaScript",
+    "blogDescription": "Learn the basics of JavaScript programming language.",
+    "blogPostDate": "2024-01-24",
+    "blogImage": "image1.jpg"
+  },
+  {
+    "id": 2,
+    "blogTitle": "Getting Started with React",
+    "blogDescription": "Explore the fundamentals of building web applications with React.",
+    "blogPostDate": "2024-01-25",
+    "blogImage": "image2.jpg"
+  },
+  {
+    "id": 3,
+    "blogTitle": "Python for Beginners",
+    "blogDescription": "An easy-to-follow guide for beginners to start learning Python.",
+    "blogPostDate": "2024-01-26",
+    "blogImage": "image3.jpg"
+  },
+  {
+    "id": 4,
+    "blogTitle": "CSS Styling Tips and Tricks",
+    "blogDescription": "Enhance your web design skills with these CSS styling tips.",
+    "blogPostDate": "2024-01-27",
+    "blogImage": "image4.jpg"
+  },
+  {
+    "id": 5,
+    "blogTitle": "Node.js Basics",
+    "blogDescription": "Learn the fundamentals of server-side development with Node.js.",
+    "blogPostDate": "2024-01-28",
+    "blogImage": "image5.jpg"
+  },
+  {
+    "id": 6,
+    "blogTitle": "Diving into Machine Learning with Python",
+    "blogDescription": "An introduction to machine learning using Python libraries.",
+    "blogPostDate": "2024-01-29",
+    "blogImage": "image6.jpg"
+  },
+  {
+    "id": 7,
+    "blogTitle": "Responsive Web Design Techniques",
+    "blogDescription": "Explore techniques to make your websites responsive and mobile-friendly.",
+    "blogPostDate": "2024-01-30",
+    "blogImage": "image7.jpg"
+  },
+  {
+    "id": 8,
+    "blogTitle": "MongoDB Fundamentals",
+    "blogDescription": "Get started with MongoDB and learn the basics of NoSQL databases.",
+    "blogPostDate": "2024-01-31",
+    "blogImage": "image8.jpg"
+  },
+  {
+    "id": 9,
+    "blogTitle": "AngularJS in Action",
+    "blogDescription": "Build dynamic web applications with AngularJS framework.",
+    "blogPostDate": "2024-02-01",
+    "blogImage": "image9.jpg"
+  },
+  {
+    "id": 10,
+    "blogTitle": "Web Security Best Practices",
+    "blogDescription": "Essential tips for securing your web applications against common threats.",
+    "blogPostDate": "2024-02-02",
+    "blogImage": "image10.jpg"
+  }
+]
