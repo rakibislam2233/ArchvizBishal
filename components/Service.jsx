@@ -1,7 +1,7 @@
 import Architectural from "@/assets/Service/Architectural 2d.png";
 import ExteriorDesign from "@/assets/Service/Exterior.png";
 import Interior from "@/assets/Service/Interior.png";
-import Landscape from "@/assets/Service/Landscape.png";
+import Landscape from "@/assets/Service/landscape.png";
 import Image from "next/image";
 const Service = () => {
   return (

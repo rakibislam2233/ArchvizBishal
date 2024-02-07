@@ -1,7 +1,7 @@
 import autoCad from "@/assets/Sofawer Skill/Autocad.png";
-import max from "@/assets/Sofawer Skill/3ds Max.png";
+import max from "@/assets/Sofawer Skill/3ds max.png";
 import SketchUp from "@/assets/Sofawer Skill/SketchUp.png";
-import VRay from "@/assets/Sofawer Skill/V-ray.png";
+import VRay from "@/assets/Sofawer Skill/v-ray.png";
 import lumion from "@/assets/Sofawer Skill/Lumion.png";
 import Enscape from "@/assets/Sofawer Skill/enscap.png";
 import Illustrator from "@/assets/Sofawer Skill/adobe illlustrator.png";
